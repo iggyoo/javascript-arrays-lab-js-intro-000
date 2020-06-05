@@ -5,5 +5,5 @@ kittens.push("Ralph");
 }
 
 function destructivelyPrependKitten() {
-kittens.shift("Bob");
+kittens.push("Bob");
 }
