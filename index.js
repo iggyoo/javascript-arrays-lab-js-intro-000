@@ -18,5 +18,5 @@ kittens.shift("Milo");
 
 function appendKitten() {
 kittens.push("Broom");
-return array
+return(var kittens)
 }
