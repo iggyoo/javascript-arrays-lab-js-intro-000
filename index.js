@@ -21,5 +21,4 @@ return [...kittens, "Broom"]
 }
 
 function prependKitten() {
-return [...kittens, hey]
 }
