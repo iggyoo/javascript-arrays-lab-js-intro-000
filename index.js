@@ -25,6 +25,5 @@ return ["Arnold", ...kittens]
 }
 
 function removeLastKitten() {
-kittens.shift("Garfield")
-return kittens.slice
+kittens.slice
 }
