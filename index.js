@@ -19,3 +19,7 @@ kittens.shift("Milo");
 function appendKitten() {
 return [...kittens, "Broom"]
 }
+
+function prependKitten() {
+return [...kittens, hey]
+}
