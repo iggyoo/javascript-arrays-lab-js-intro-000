@@ -9,9 +9,9 @@ kittens.unshift("Bob");
 }
 
 function  destructivelyRemoveLastKitten() {
-kittens.pop("Garfield")
+kittens.pop("Garfield");
 }
 
 function destructivelyRemoveFirstKitten() {
-kittens.pop("Milo")
+kittens.pop("Milo");
 }
