@@ -23,3 +23,7 @@ return [...kittens, "Broom"]
 function prependKitten() {
 return ["Arnold", ...kittens]
 }
+
+function removeLastKitten() { 
+kittens.shift("Garfield")
+}
