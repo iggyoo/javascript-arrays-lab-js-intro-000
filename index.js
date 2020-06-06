@@ -9,5 +9,5 @@ kittens.unshift("Bob");
 }
 
 function  destructivelyRemoveLastKitten() {
-kittens.shift("Garfield")
+kittens.unshift("Garfield")
 }
