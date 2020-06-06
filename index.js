@@ -5,6 +5,5 @@ kittens.push("Ralph");
 }
 
 function destructivelyPrependKitten() {
-["Bob", ...kittens]
-kittens.pop["Bob"]
+kittens.pop("Bob")
 }
