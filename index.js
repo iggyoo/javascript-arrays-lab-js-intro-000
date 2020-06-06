@@ -17,5 +17,5 @@ kittens.shift("Milo");
 }
 
 function appendKitten() {
-return [...kittens, Broom]
+return [...kittens, "Broom"]
 }
